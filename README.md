@@ -3,7 +3,8 @@ I'm using my Github for the folloiwng purposes:
   2. to see how consisnt I am.
 
 <!--2025/Jan/09: Spring MVC - thymeleaf grammar & MessageSource
-2025/Jan/19: Spring MVC - Error Code and Message - BindingFailure
+2025/Jan/10: Spring MVC - Error Code and Message - BindingFailure
+2025/Jan/11: Sprin MVC - Bean Validation
 -->
 
 <!---

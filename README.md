@@ -6,6 +6,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/10: Spring MVC - Error Code and Message - BindingFailure
 2025/Jan/11: Spring MVC - Bean Validation
 2025/Jan/12: Spring MVC - Servlet Filter
+2025/Jan/13: Spring MVC - Servlet
 -->
 
 <!---

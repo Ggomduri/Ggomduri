@@ -7,6 +7,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/11: Spring MVC - Bean Validation
 2025/Jan/12: Spring MVC - Servlet Filter
 2025/Jan/13: Spring MVC - Servlet
+2025/Jan/14: Spring MVC - Error Page in HTML & for API
 -->
 
 <!---

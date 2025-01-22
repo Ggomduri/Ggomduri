@@ -15,6 +15,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/19: Spring - Constructor/Setter/Field Injetion, @Qualifier, @Primary
 2025/Jan/20: Spring - Bean Scope: request
 2025/Jan/21: JPA - why JPA
+2025/Jan/22: JPA - Persistence Context
 -->
 
 <!---

@@ -17,6 +17,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/21: JPA - why JPA
 2025/Jan/22: JPA - Persistence Context
 2025/Jan/23: JPA - Persistence Context:Flush matches persistence context and DB.
+2025/Jan/24: JPA - Mapping
 -->
 
 <!---

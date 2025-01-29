@@ -22,6 +22,7 @@ I'm using my Github for the folloiwng purposes:
 2025/jan/26: JPA - examples
 2025/Jan/27: JPA - OnetoMany ManytoMany ManytoMany
 2025/Jan/28: JPA - FetchType.LAZY
+2025/Jan/29: JPA - JPQL
 -->
 
 <!---

@@ -24,6 +24,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/28: JPA - FetchType.LAZY
 2025/Jan/29: JPA - JPQL
 2025/Jan/30: JPA - FetchJoin
+2025/Jan/31: JPA - bulk query and batchsize
 -->
 
 <!---

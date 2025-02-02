@@ -26,6 +26,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Jan/30: JPA - FetchJoin
 2025/Jan/31: JPA - bulk query and batchsize
 2025/Feb/1: Spring MVC - ResponseBody, RestController(Controller + ResonseBody), PathVariable
+2025/Feb/2 : JPA - Entities are identified by their @Id in persistence context. Therefore, same instance will be returned in Persistence Context(isEqualto-test will be passed).
 -->
 
 <!---

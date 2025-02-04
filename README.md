@@ -28,6 +28,8 @@ I'm using my Github for the folloiwng purposes:
 2025/Feb/1: Spring MVC - ResponseBody, RestController(Controller + ResonseBody), PathVariable
 2025/Feb/2 : JPA - Entities are identified by their @Id in persistence context. Therefore, same instance will be returned in Persistence Context(isEqualto-test will be passed).
 2025/Feb/3 : JPA - Bidirectional Relationship
+2025/Feb/4 : JPA - Practice: Reository - @Repository @RequiredArgsConstructor
+                             Entity - @Entity @Getter for class. @Id/@eneratedValue/@ManyToOne,@JoinColumn(name= "item_id") for an attribute (private Item item, for example).
 -->
 
 <!---

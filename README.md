@@ -1,4 +1,4 @@
-I'm using my Github for the folloiwng purposes:
+cI'm using my Github for the folloiwng purposes:
   1. to organize what I just learened and to help my future self better remind it. It will be focused on making Java based Web appliations.
   2. to see how consisnt I am.
 
@@ -30,6 +30,7 @@ I'm using my Github for the folloiwng purposes:
 2025/Feb/3 : JPA - Bidirectional Relationship
 2025/Feb/4 : JPA - Practice: Reository - @Repository @RequiredArgsConstructor
                              Entity - @Entity @Getter for class. @Id/@eneratedValue/@ManyToOne,@JoinColumn(name= "item_id") for an attribute (private Item item, for example).
+2025/Feb/5 : JPA - @Valid & BindingResult
 -->
 
 <!---

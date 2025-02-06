@@ -31,6 +31,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/4 : JPA - Practice: Reository - @Repository @RequiredArgsConstructor
                              Entity - @Entity @Getter for class. @Id/@eneratedValue/@ManyToOne,@JoinColumn(name= "item_id") for an attribute (private Item item, for example).
 2025/Feb/5 : JPA - @Valid & BindingResult
+2025/Feb/6 : JPA - Merge
 -->
 
 <!---

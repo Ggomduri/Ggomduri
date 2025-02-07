@@ -31,7 +31,8 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/4 : JPA - Practice: Reository - @Repository @RequiredArgsConstructor
                              Entity - @Entity @Getter for class. @Id/@eneratedValue/@ManyToOne,@JoinColumn(name= "item_id") for an attribute (private Item item, for example).
 2025/Feb/5 : JPA - @Valid & BindingResult
-2025/Feb/6 : JPA - Merge
+2025/Feb/6 : JPA - Merge (Don't use it. Use 'Dirty Chekcing', instead)
+2025/Feb/7 : JPA - When updating data of an Entity, make and use DTO as a parameter for an updating method. Don't expose Entity. 
 -->
 
 <!---

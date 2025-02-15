@@ -35,6 +35,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/7 : JPA - When updating data of an Entity, make and use DTO as a parameter for an updating method. Don't use/expose Entity in the updating method.
 2025/Feb/8 : JPA - Project: Golden Kimchi started
 2025/Feb/14 : Python : Data Structure - List(Array), Stack, Que, LinkedList
+2025/Feb/15 : Python : Data Structure - HashMap, Binary Tree, Heap
 -->
 
 <!---

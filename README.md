@@ -36,6 +36,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/8 : JPA - Project: Golden Kimchi started
 2025/Feb/14 : Python : Data Structure - List(Array), Stack, Que, LinkedList
 2025/Feb/15 : Python : Data Structure - HashMap, Binary Tree, Heap
+2025/Feb/16 : Python : Data Structure - Binary Search Tree
 -->
 
 <!---

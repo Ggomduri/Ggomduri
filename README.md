@@ -33,11 +33,12 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/5 : JPA - @Valid & BindingResult
 2025/Feb/6 : JPA - Merge (Don't use it. Use 'Dirty Chekcing', instead)
 2025/Feb/7 : JPA - When updating data of an Entity, make and use DTO as a parameter for an updating method. Don't use/expose Entity in the updating method.
-2025/Feb/8 : JPA - Project: Golden Kimchi started
+2025/Feb/8 : SpringBoot - Project: Golden Kimchi started
 2025/Feb/14 : Python : Data Structure - List(Array), Stack, Que, LinkedList
 2025/Feb/15 : Python : Data Structure - HashMap, Binary Tree, Heap
 2025/Feb/16 : Python : Data Structure - Binary Search Tree
 2025/Feb/17 : Python : AVL Tree, Black and Red Tree
+2025/Feb/19 : Golden Kimchi - Built connection to Binance API (for automatic trading, and price info) & X API (for # of being mentioned data for some keywords in trading) .
 -->
 
 <!---

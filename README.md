@@ -40,6 +40,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/17 : Python : AVL Tree, Black and Red Tree
 2025/Feb/19 : Golden Kimchi - Built connection to Binance API (for automatic trading, and price info) & X API (for # of being mentioned data for some keywords in trading) .
 2025/Feb/20 : Golden Kimchi - Refactored
+2025/Feb/23 : Golden Kimchi - Working on Google Login: I'm redirected to google-log-in page even when I select my google-account.
 -->
 
 <!---

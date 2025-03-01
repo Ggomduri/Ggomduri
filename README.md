@@ -43,6 +43,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/23 : Golden Kimchi - Working on Google Login: I'm redirected to google-log-in page even when I select my google-account.
 2025/Feb/25 : Golden Kimchi - added favorite coin list
 2025/Feb/28 : Golden Kimchi - Decided to use google trend instead of mentions in X
+2026/Mar/1  : Golden Kimchi - Still working on contrarian indicator (google trend) work.
 -->
 
 <!---

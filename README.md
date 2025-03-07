@@ -45,6 +45,7 @@ cI'm using my Github for the folloiwng purposes:
 2025/Feb/28 : Golden Kimchi - Decided to use google trend instead of mentions in X
 2026/Mar/1  : Golden Kimchi - Still working on contrarian indicator (google trend) work.
 2026/Mar/2~6 : Golden Kimchi - Still..
+2026/Mar/7 : Golden Kimchi - decided to use html provided by google trend
 -->
 
 <!---

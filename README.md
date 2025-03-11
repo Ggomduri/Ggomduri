@@ -46,7 +46,8 @@ cI'm using my Github for the folloiwng purposes:
 2026/Mar/1  : Golden Kimchi - Still working on contrarian indicator (google trend) work.
 2026/Mar/2~6 : Golden Kimchi - Still..
 2026/Mar/7 : Golden Kimchi - decided to use html provided by google trend
-2026/Mar/8~9 : C.S Study - Network\
+2026/Mar/8~9 : C.S Study - Network
+2026/Mar/11 : C.S Study - Network
 -->
 
 <!---

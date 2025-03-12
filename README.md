@@ -1,4 +1,4 @@
-cI'm using my Github for the folloiwng purposes:
+I'm using this for the folloiwng purposes:
   1. to organize what I just learened and to help my future self better remind it. It will be focused on making Java based Web appliations.
   2. to see how consisnt I am.
 
@@ -48,6 +48,7 @@ cI'm using my Github for the folloiwng purposes:
 2026/Mar/7 : Golden Kimchi - decided to use html provided by google trend
 2026/Mar/8~9 : C.S Study - Network
 2026/Mar/11 : C.S Study - Network
+2026/Mar/12 : Golden Kimchi - Put google-trend (automatically updating) in the middle of the page called 'Market Indicator'
 -->
 
 <!---

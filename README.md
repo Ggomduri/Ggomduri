@@ -49,6 +49,7 @@ I'm using this for the folloiwng purposes:
 2026/Mar/8~9 : C.S Study - Network
 2026/Mar/11 : C.S Study - Network
 2026/Mar/12 : Golden Kimchi - Put google-trend (automatically updating) in the middle of the page called 'Market Indicator'
+2026/Mar/13~15 Applied for a job position and reviewed my project Golden Kimchi
 -->
 
 <!---

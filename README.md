@@ -51,6 +51,7 @@ I'm using this for the folloiwng purposes:
 2026/Mar/12 : Golden Kimchi - Put google-trend (automatically updating) in the middle of the page called 'Market Indicator'
 2026/Mar/13~15 Applied for a job position and reviewed my project Golden Kimchi
 2026/Mar/19 : C.S Study - O.S.
+2026/Apr/1 : Golden Kimchi - Tried to put NUPL data using Free Bitcoin API, but couldn't find the endpoint for NUPL data.
 
 -->
 

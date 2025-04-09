@@ -53,6 +53,7 @@ I'm using this for the folloiwng purposes:
 2026/Mar/19 : C.S Study - O.S.
 2026/Apr/1 : Golden Kimchi - Tried to put NUPL data using Free Bitcoin API, but couldn't find the endpoint for NUPL data.
 2026/Apr/2~6 : Golden Kimchi - NUPL data put. 'Why Bitcoin' Page completed. News automatically being updated in homepage, but needs to make it use all the width.
+2026/Apr/9 : Golden Kimchi - DEPLOY.
 -->
 
 <!---
